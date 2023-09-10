@@ -35,7 +35,7 @@ function App() {
           <Content style={{display: 'flex',
             flexDirection: 'column',
             gap: '10px',
-            alignItems: 'center', width: '500px'}}><TaskPage /></Content>
+            alignItems: 'center', minWidth: '300px'}}><TaskPage /></Content>
         </Layout>
         
     </Layout>

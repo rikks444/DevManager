@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const TaskItemWrapper = styled.div`
-width: 500px;
+min-width: 300px;
 padding: 20px;
 border-radius: 10px;
 border: 1px solid #cacaca;
